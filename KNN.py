@@ -1,3 +1,12 @@
+"""
+Author: Roman Njoroge
+Version: V1
+Functionality: Get 1-Nearest Neighbor using either euclidean or square distance method using data in a csv file
+HOW TO RUN: Call the predict_neighbor function with the file location as a string, point you want to predict as a tuple and method to calculate
+distance with
+
+"""
+
 from typing import Tuple, List, Callable
 import math
 import pandas as pd
