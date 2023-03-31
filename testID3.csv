@@ -1,0 +1,7 @@
+Colour,Shape,Size,Like
+Red,Square,Big,Like
+Blue,Square,Big,Like
+Red,Round,Small,Dislike
+Green,Square,Small,Dislike
+Red,Round,Big,Like
+Green,Round,Big,Dislike
