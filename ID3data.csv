@@ -1,0 +1,12 @@
+DOW,Rainy,Temperature,Patrons
+weekday,No,hot,Few
+weekday,Yes,cool,Few
+weekend,Yes,moderate,Few
+weekend,Yes,cool,Few
+weekday,No,moderate,Many
+weekday,No,cool,Many
+weekend,No,cool,Many
+weekend,Yes,hot,Many
+
+
+
