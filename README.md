@@ -1,7 +1,7 @@
 # Machine-Learning-And-Programming-Unit
 This repo contains the code I wrote while taking the unit **Machine Learning And Programming**.
 The folders contain code for different things tought during the unit
-1. ## K-Nearest Neighbors
+## K-Nearest Neighbors
 The code is in the KNN Folder. It contains CSV files used in testing and the KNN.py file that contains the code used to implement KNN.
 To obtain the K-Nearest neighbur of a point Z the following is done:
 
@@ -13,7 +13,7 @@ To obtain the K-Nearest neighbur of a point Z the following is done:
 1. The distance between Z and all other points in the dataset are calculated using a distance function
 2. The point with the smallest distance is found and its class is chosen as the class of Z
 
-2. ## Decision Trees Using ID3 algorithm
+## Decision Trees Using ID3 algorithm
 The code is in the ID3 folder. It contains CSV files used in testing and the ID3.py file that contains the implementation
 To construct a decison tree using the ID3 algorithm:
 ### Data Used In Algorithm:
