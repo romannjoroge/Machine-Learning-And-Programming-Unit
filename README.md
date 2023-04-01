@@ -43,7 +43,7 @@ https://github.com/romannjoroge/Machine-Learning-And-Programming-Unit/blob/00e3a
 The function is used to calculate **information gain**. This is used to determine the best splitting attribute i.e the attribute with the highest information gain is selected as the best splitting attribute
 https://github.com/romannjoroge/Machine-Learning-And-Programming-Unit/blob/00e3a3bbbb8ab98553992766fb5c1f1c063117ac/ID3/ID3.py#L123-L149
 This function uses *calculate_information_gain* to get the information gains of every attribute in a given data set.
-https://github.com/romannjoroge/Machine-Learning-And-Programming-Unit/blob/00e3a3bbbb8ab98553992766fb5c1f1c063117ac/ID3/ID3.py#L123-L149
+https://github.com/romannjoroge/Machine-Learning-And-Programming-Unit/blob/00e3a3bbbb8ab98553992766fb5c1f1c063117ac/ID3/ID3.py#L152-L176
 This function performs **step 6 of algorithm**. It selects the splitting attribute from a dict containing the attribute name as key and its information gain as the value
 https://github.com/romannjoroge/Machine-Learning-And-Programming-Unit/blob/00e3a3bbbb8ab98553992766fb5c1f1c063117ac/ID3/ID3.py#L179-L213
 This function is used to perform **step 8 of the algorithm**. It splits the given data set into a dictionary where the key is a unique value of the splitting attribute in the data and the value is a list of data points that have the unique value.
