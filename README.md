@@ -49,7 +49,7 @@ https://github.com/romannjoroge/Machine-Learning-And-Programming-Unit/blob/00e3a
 This function is used to perform **step 8 of the algorithm**. It splits the given data set into a dictionary where the key is a unique value of the splitting attribute in the data and the value is a list of data points that have the unique value.
 https://github.com/romannjoroge/Machine-Learning-And-Programming-Unit/blob/00e3a3bbbb8ab98553992766fb5c1f1c063117ac/ID3/ID3.py#L216-L240
 This is the definition of a node in the decision tree. Title represents the name of the attribute chosen for the node if it's not a leaf node. *parent_attr_type* is the attribute of the parent of the node. *parent_attribute* is the value of the attribute of the node's parent.
-https://github.com/romannjoroge/Machine-Learning-And-Programming-Unit/blob/00e3a3bbbb8ab98553992766fb5c1f1c063117ac/ID3/ID3.py#L216-L240
+https://github.com/romannjoroge/Machine-Learning-And-Programming-Unit/blob/00e3a3bbbb8ab98553992766fb5c1f1c063117ac/ID3/ID3.py#L243-L318
 The function uses all the defined functions and **implements the algorithm** using recursion
 https://github.com/romannjoroge/Machine-Learning-And-Programming-Unit/blob/00e3a3bbbb8ab98553992766fb5c1f1c063117ac/ID3/ID3.py#L321-L332
 The function accepts the location of a CSV file containing the data, extracts the data, transforms it into a form that can be used by the create_tree function and calls the function with the transformed data.
