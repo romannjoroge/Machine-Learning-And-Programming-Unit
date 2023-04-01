@@ -332,5 +332,4 @@ def ID3(csv_file: str) -> None:
     print(create_tree(data, attribute_list))
 
 
-# ID3("ID3data.csv")
-print(calculate_entropy([('weekday', 'No', 'hot', 'Few'), ('weekday', 'Yes', 'cool', 'Few'), ('weekend', 'Yes', 'moderate', 'Few'), ('weekday', 'No', 'moderate', 'Many')]))
+ID3("ID3data.csv")
