@@ -33,3 +33,8 @@ To construct a decison tree using the ID3 algorithm:
 10. For each unique value of the selected attribute create a child node for the node
 11. Repeat for each child node with the split data and new attribute list
 
+### Code explanation
+The functions in the ID3.py folder do the following:
+https://github.com/romannjoroge/Machine-Learning-And-Programming-Unit/blob/0cc4830f2421ce39752532d6b1cf6afc57872080/ID3/ID3.py#L18-L35
+The function is used to calculate plog(p) which is used in entropy calculations
+
